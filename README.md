@@ -1,10 +1,10 @@
 ## Hi!
 
-I go by a few different names online, but you can refer to me as dragn, spibble, or my real name, if you are someone I know IRL. Here, you can find some of my (lovingly) poorly-coded stuff.
+I go by a few different names online, but you can refer to me as **dragn**, **spibble**, or my real name (if you know me IRL).
 
 ## What do I make?
 
-At some point when I start actually adding stuff to Github, there will probably be a good mix of different things here. But for now, I've mostly only used Github for school/work stuff, and that stuff is unfortunately private. In the near future, I will be making a personal website which will have a more concise and/or curated list of the things I've made.
+At some point I'll actually add stuff on here, and it'll be a good mix of stuff - but for now, I mainly use Github to track stuff for school/work, and that stuff is private (though I am happy to show it upon request).
 
 ## Where else can I be found?
 
