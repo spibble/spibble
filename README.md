@@ -1,6 +1,6 @@
 ## Hi!
 
-I go by a few different names online, but you can refer to me as **dragn**, **spibble**, or my real name (if you know me IRL).
+I go by a few different names online, but you can refer to me as **dragn**, **spibble**, or Miles if we know each other IRL.
 
 ## What do I make?
 
